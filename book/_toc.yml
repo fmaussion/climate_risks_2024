@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: welcome
+parts:
+  - caption: Introduction
+    chapters:
+    - file: syllabus
+    - file: references
+  - caption: Workshop 01
+    chapters:
+    - file: ws01/briefing
