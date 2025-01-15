@@ -30,6 +30,8 @@ html:
   use_issues_button: true
   use_edit_page_button: true
   favicon: img/favicon.ico
+  extra_css:
+    - _static/custom.css
   toc_title: "On this page"
   extra_footer: |
     <p>

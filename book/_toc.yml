@@ -11,3 +11,6 @@ parts:
   - caption: Workshop 01
     chapters:
     - file: ws01/briefing
+  - caption: Workshop 02
+    chapters:
+    - file: ws02/briefing
