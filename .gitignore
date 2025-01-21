@@ -3,6 +3,7 @@ html/index.html
 .idea
 book/_build/
 .DS_Store
+data/
 ~$*.pptx
 
 # Byte-compiled / optimized / DLL files
@@ -112,6 +113,6 @@ notebooks/ERA-Int-MonthlyAvg-4D-T.nc
 book/data
 topo.png
 topo.pdf
-*_Solution_*.ipynb
+*-solution*.ipynb
 .virtual_documents
 

@@ -8,9 +8,19 @@ parts:
     chapters:
     - file: syllabus
     - file: references
-  - caption: Workshop 01
+  - caption: Workshop 01 & 02
     chapters:
     - file: ws01/briefing
-  - caption: Workshop 02
-    chapters:
     - file: ws02/briefing
+  - caption: Getting ready for programming
+    chapters:
+    - file: ready/00-howto
+    - file: ready/01-installation
+    - file: ready/02-install-jupyter
+    - file: ready/03-download
+  - caption: Workshop 03
+    chapters:
+    chapters:
+    - file: ws03/01-primer
+    - file: ws03/02-lesson-netcdf-data
+    - file: ws03/03-assignment-2d-data
