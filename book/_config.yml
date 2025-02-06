@@ -12,7 +12,7 @@ logo: img/logo.png  # A path to the book logo
 repository:
   url: https://github.com/fmaussion/climate_risks
   path_to_book: book
-  branch: master
+  branch: main
 # parse:
 #   myst_enable_extensions:
 #     # don't forget to list any other extensions you want enabled,
