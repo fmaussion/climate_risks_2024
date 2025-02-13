@@ -20,16 +20,14 @@ parts:
     - file: ready/03-download
   - caption: Workshop 03
     chapters:
-    chapters:
     - file: ws03/01-primer
     - file: ws03/02-lesson-netcdf-data
     - file: ws03/03-assignment-2d-data
   - caption: Workshop 04
     chapters:
-    chapters:
     - file: ws04/01-lesson-moredatacrunching
     - file: ws04/02-assignment-precip-cmip6
   - caption: Workshop 05
     chapters:
-    chapters:
     - file: ws05/01-lesson-timeseries
+    - file: ws05/02-assignment-timeseries
