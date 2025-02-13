@@ -27,5 +27,9 @@ parts:
   - caption: Workshop 04
     chapters:
     chapters:
-    - file: ws04/01-lesson_moredatacrunching
+    - file: ws04/01-lesson-moredatacrunching
     - file: ws04/02-assignment-precip-cmip6
+  - caption: Workshop 05
+    chapters:
+    chapters:
+    - file: ws05/01-lesson-timeseries
