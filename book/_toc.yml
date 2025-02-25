@@ -31,3 +31,6 @@ parts:
     chapters:
     - file: ws05/01-lesson-timeseries
     - file: ws05/02-assignment-timeseries
+  - caption: Workshop 06
+    chapters:
+    - file: ws06/01-lesson-gev
