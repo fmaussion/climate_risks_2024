@@ -34,3 +34,4 @@ parts:
   - caption: Workshop 06
     chapters:
     - file: ws06/01-lesson-gev
+    - file: ws06/02-assignment-gev
