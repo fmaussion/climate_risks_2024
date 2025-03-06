@@ -39,3 +39,4 @@ parts:
     chapters:
     - file: ws07/01-lesson-glaciers
     - file: ws07/02-lesson-basins
+    - file: ws07/03-assignment-glacier-future
