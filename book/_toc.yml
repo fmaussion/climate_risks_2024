@@ -35,3 +35,7 @@ parts:
     chapters:
     - file: ws06/01-lesson-gev
     - file: ws06/02-assignment-gev
+  - caption: Workshop 07
+    chapters:
+    - file: ws07/01-lesson-glaciers
+    - file: ws07/02-lesson-basins
