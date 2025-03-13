@@ -5,6 +5,7 @@ book/_build/
 .DS_Store
 data/
 ~$*.pptx
+ignore/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
