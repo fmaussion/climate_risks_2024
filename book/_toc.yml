@@ -47,3 +47,6 @@ parts:
   - caption: Recipes
     chapters:
     - file: recipes/01-which-dataset
+    - file: recipes/02-regional-lonlat
+    - file: recipes/03-regional-lambert
+    - file: recipes/04-worldpop
