@@ -10,7 +10,7 @@ author: Fabien Maussion  # The author of the book
 copyright: "2024-2025"  # Copyright year to be placed in the footer
 logo: img/logo.png  # A path to the book logo
 repository:
-  url: https://github.com/fmaussion/climate_risks
+  url: https://github.com/fmaussion/climate_risks_24
   path_to_book: book
   branch: main
 # parse:
