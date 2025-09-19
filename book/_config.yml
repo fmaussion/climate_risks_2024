@@ -51,4 +51,5 @@ sphinx:
 execute:
   execute_notebooks: auto  # auto or cache or force
   allow_errors: true
+  timeout: 100
 only_build_toc_files: true

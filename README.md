@@ -1,8 +1,10 @@
 # Quantifying Climate Risks
 
+**Archive 2024/25.**
+
 Class activities and notebooks for the MSc "Quantifying Climate Risks" class taught at Uni Bristol.
 
-Website: [http://fabienmaussion.info/climate_risks](http://fabienmaussion.info/climate_risks)
+Website (archive): [http://fabienmaussion.info/climate_risks_24](http://fabienmaussion.info/climate_risks_24)
 
 ## License
 
